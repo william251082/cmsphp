@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af52774e-565d-437e-b853-bd2c14dffcf6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" afterPath="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" />
-      <change beforePath="$PROJECT_DIR$/globe_bank/public/index.php" afterPath="$PROJECT_DIR$/globe_bank/public/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,21 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="public_navigation.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="public_navigation.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/globe_bank/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="882">
+              <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -101,14 +100,20 @@
               <item name="cmsphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmsphp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="globe_bank" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="private" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="cmsphp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmsphp" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="globe_bank" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="private" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cmsphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="cmsphp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="globe_bank" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="stylesheets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -156,12 +161,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519739951784</updated>
-      <workItem from="1519739953190" duration="5765000" />
+      <workItem from="1519739953190" duration="6200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5765000" />
+    <option name="totallyTimeSpent" value="6200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -319,18 +324,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/public/index.php">
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="38" lean-forward="true" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php">
+    <entry file="file://$PROJECT_DIR$/globe_bank/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="882">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
           <folding />
         </state>
       </provider>
