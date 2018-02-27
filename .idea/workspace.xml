@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af52774e-565d-437e-b853-bd2c14dffcf6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/globe_bank/public/index.php" afterPath="$PROJECT_DIR$/globe_bank/public/index.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" afterPath="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="public_navigation.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,8 +47,8 @@
         <option value="$PROJECT_DIR$/globe_bank/private/db_credentials.php" />
         <option value="$PROJECT_DIR$/globe_bank/public/stylesheets/public.css" />
         <option value="$PROJECT_DIR$/globe_bank/private/query_functions.php" />
-        <option value="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" />
         <option value="$PROJECT_DIR$/globe_bank/public/index.php" />
+        <option value="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" />
       </list>
     </option>
   </component>
@@ -163,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519739951784</updated>
-      <workItem from="1519739953190" duration="3488000" />
+      <workItem from="1519739953190" duration="3742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3488000" />
+    <option name="totallyTimeSpent" value="3742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -338,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
