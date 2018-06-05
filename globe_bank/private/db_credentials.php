@@ -6,3 +6,5 @@ define("DB_PASS", "root");
 define("DB_NAME", "globe_bank");
 
 ?>
+
+
