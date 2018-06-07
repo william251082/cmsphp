@@ -993,75 +993,118 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="258" parent="12" name="pages">
+    <table id="258" parent="12" name="admins">
       <Engine>InnoDB</Engine>
     </table>
-    <table id="259" parent="12" name="subjects">
+    <table id="259" parent="12" name="pages">
       <Engine>InnoDB</Engine>
     </table>
-    <column id="260" parent="258" name="id">
+    <table id="260" parent="12" name="subjects">
+      <Engine>InnoDB</Engine>
+    </table>
+    <column id="261" parent="258" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="261" parent="258" name="subject_id">
+    <column id="262" parent="258" name="first_name">
       <Position>2</Position>
-      <DataType>int(11)|0s</DataType>
+      <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="262" parent="258" name="menu_name">
+    <column id="263" parent="258" name="last_name">
       <Position>3</Position>
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="263" parent="258" name="position">
+    <column id="264" parent="258" name="email">
       <Position>4</Position>
-      <DataType>int(3)|0s</DataType>
+      <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="264" parent="258" name="visible">
+    <column id="265" parent="258" name="username">
       <Position>5</Position>
-      <DataType>tinyint(1)|0s</DataType>
+      <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="265" parent="258" name="content">
+    <column id="266" parent="258" name="hashed_password">
       <Position>6</Position>
-      <DataType>text|0s</DataType>
+      <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="266" parent="258" name="fk_subject_id">
-      <ColNames>subject_id</ColNames>
+    <index id="267" parent="258" name="index_username">
+      <ColNames>username</ColNames>
     </index>
-    <key id="267" parent="258" name="PRIMARY">
+    <key id="268" parent="258" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="268" parent="259" name="id">
+    <column id="269" parent="259" name="id">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="269" parent="259" name="menu_name">
+    <column id="270" parent="259" name="subject_id">
+      <Position>2</Position>
+      <DataType>int(11)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="271" parent="259" name="menu_name">
+      <Position>3</Position>
+      <DataType>varchar(255)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="272" parent="259" name="position">
+      <Position>4</Position>
+      <DataType>int(3)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="273" parent="259" name="visible">
+      <Position>5</Position>
+      <DataType>tinyint(1)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="274" parent="259" name="content">
+      <Position>6</Position>
+      <DataType>text|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <index id="275" parent="259" name="fk_subject_id">
+      <ColNames>subject_id</ColNames>
+    </index>
+    <key id="276" parent="259" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="277" parent="260" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0s</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="278" parent="260" name="menu_name">
       <Position>2</Position>
       <DataType>varchar(255)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="270" parent="259" name="position">
+    <column id="279" parent="260" name="position">
       <Position>3</Position>
       <DataType>int(3)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="271" parent="259" name="visible">
+    <column id="280" parent="260" name="visible">
       <Position>4</Position>
       <DataType>tinyint(1)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="272" parent="259" name="PRIMARY">
+    <key id="281" parent="260" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>id</ColNames>
       <Primary>1</Primary>
