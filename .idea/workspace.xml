@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af52774e-565d-437e-b853-bd2c14dffcf6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/db_credentials.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/db_credentials.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globe_bank/private/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/initialize.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/initialize.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/query_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/query_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/shared/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/shared/public_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globe_bank/private/shared/staff_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/shared/staff_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/private/validation_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/private/validation_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/language.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/language.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/pages/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/pages/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/pages/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/pages/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/pages/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/pages/new.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/pages/new.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/pages/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/pages/show.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/subjects/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/subjects/delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/subjects/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/subjects/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/subjects/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/subjects/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/subjects/new.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/subjects/new.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/globe_bank/public/stylesheets/staff.css" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/stylesheets/staff.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/staff/subjects/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/staff/subjects/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globe_bank/public/stylesheets/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/globe_bank/public/stylesheets/public.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,30 +51,59 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="globe_bank@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="globe_bank@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/41e11474-b939-4f45-b009-9f6e5adeb5ab/console.sql">
+    <leaf>
+      <file leaf-file-name="initialize.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globe_bank/private/initialize.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="38" column="146" lean-forward="true" selection-start-line="26" selection-end-line="38" selection-end-column="146" />
+            <state relative-caret-position="63">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="globe_bank.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/globe_bank.sql">
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globe_bank/private/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-52">
-              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <state relative-caret-position="76">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_credentials.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/globe_bank/private/db_credentials.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth_functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globe_bank/private/auth_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-343" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="query_functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globe_bank/private/query_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validation_functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/globe_bank/private/validation_functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -75,7 +123,6 @@
       <list>
         <option value="$PROJECT_DIR$/globe_bank/public/stylesheets/public.css" />
         <option value="/Applications/MAMP/bin/php/php7.2.1/conf/php.ini" />
-        <option value="$PROJECT_DIR$/globe_bank/private/db_credentials.php" />
         <option value="$PROJECT_DIR$/globe_bank/private/query_functions.php" />
         <option value="$PROJECT_DIR$/globe_bank/public/staff/pages/show.php" />
         <option value="$PROJECT_DIR$/globe_bank/public/index.php" />
@@ -91,7 +138,9 @@
         <option value="$PROJECT_DIR$/globe_bank/private/functions.php" />
         <option value="$PROJECT_DIR$/globe_bank/private/shared/staff_header.php" />
         <option value="$PROJECT_DIR$/globe_bank/public/stylesheets/staff.css" />
+        <option value="$PROJECT_DIR$/globe_bank.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/41e11474-b939-4f45-b009-9f6e5adeb5ab/console.sql" />
+        <option value="$PROJECT_DIR$/globe_bank/private/db_credentials.php" />
       </list>
     </option>
   </component>
@@ -118,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,13 +184,6 @@
               <item name="cmsphp" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="globe_bank" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="private" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="cmsphp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cmsphp" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="globe_bank" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="private" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="shared" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="cmsphp" type="b2602c69:ProjectViewProjectNode" />
@@ -183,6 +224,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,36 +271,38 @@
       <workItem from="1519753142964" duration="94000" />
       <workItem from="1519753260576" duration="13000" />
       <workItem from="1528205046353" duration="12791000" />
-      <workItem from="1528299437787" duration="5128000" />
+      <workItem from="1528299437787" duration="5450000" />
+      <workItem from="1528407559304" duration="22000" />
+      <workItem from="1528526238840" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24920000" />
+    <option name="totallyTimeSpent" value="25505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.09530583" />
-      <window_info anchor="bottom" id="Database Console" order="12" visible="true" weight="0.40967283" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17265625" />
+      <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.18359375" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.09530583" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.40967283" />
       <window_info anchor="bottom" id="Find" order="2" />
     </layout>
   </component>
@@ -274,6 +318,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/41e11474-b939-4f45-b009-9f6e5adeb5ab/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/public_navigation.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -292,10 +350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="n#url_for#0;n#!!top" />
-            <element signature="n#display_errors#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -369,13 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/private/db_credentials.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/globe_bank/public/staff/subjects/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -414,34 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/private/validation_functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="e#9#28#0#PHP" expanded="true" />
-            <element signature="n#is_blank#0;n#!!top" />
-            <element signature="n#has_presence#0;n#!!top" />
-            <element signature="n#has_length_greater_than#0;n#!!top" />
-            <element signature="n#has_length_less_than#0;n#!!top" />
-            <element signature="n#has_length_exactly#0;n#!!top" />
-            <element signature="n#has_length#0;n#!!top" />
-            <element signature="n#has_inclusion_of#0;n#!!top" />
-            <element signature="n#has_exclusion_of#0;n#!!top" />
-            <element signature="n#has_string#0;n#!!top" />
-            <element signature="n#has_valid_email_format#0;n#!!top" />
-            <element signature="n#has_unique_page_menu_name#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/private/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -467,13 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/private/query_functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -512,13 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/globe_bank/private/initialize.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/globe_bank/public/language.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -551,9 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="657">
           <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="n#url_for#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -587,15 +589,58 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/41e11474-b939-4f45-b009-9f6e5adeb5ab/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="38" column="146" lean-forward="true" selection-start-line="26" selection-end-line="38" selection-end-column="146" />
+        <state relative-caret-position="274">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/globe_bank.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-52">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="1128">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/shared/staff_footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/initialize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/auth_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/query_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/validation_functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globe_bank/private/db_credentials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
